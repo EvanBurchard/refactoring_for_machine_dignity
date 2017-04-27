@@ -19,6 +19,7 @@ The most common alternative is for quality to be stopped at lens 1 or 2, leaving
 ## Resources
 
 ### This & Me
+* [@evanburchard](http://twitter.com/evanburchard)
 * [Refactoring Book (Free PDF Download)](http://refactoringjs.com) ([To Buy it](http://shop.oreilly.com/product/0636920053262.do))
 * [The repo](https://github.com/evanburchard/machine_dignity_workshop)
 * [The slides]()
