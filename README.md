@@ -22,7 +22,7 @@ The most common alternative is for quality to be stopped at lens 1 or 2, leaving
 * [@evanburchard](http://twitter.com/evanburchard)
 * [Refactoring Book (Free PDF Download)](http://refactoringjs.com) ([To Buy it](http://shop.oreilly.com/product/0636920053262.do))
 * [The repo](https://github.com/evanburchard/machine_dignity_workshop)
-* [The slides]()
+* [The slides](https://github.com/EvanBurchard/refactoring_for_machine_dignity/blob/master/refactoring_for_machine_dignity.pdf)
 * [HTML5 Games](https://www.amazon.com/Web-Game-Developers-Cookbook-JavaScript/dp/0321898389)
 
 ### Coding
