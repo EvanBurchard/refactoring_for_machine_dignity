@@ -191,6 +191,10 @@
             </ul>
           </section>
           <section>
+            <h3>Pupper-oriented Design might not be for you</h3>
+            <img src="doge_reject.png" alt="" />
+          </section>
+          <section>
             <h1>Let's make our own principles of quality</h1>
             <p class='fragment'>You can use your name or just a word you like if your name is long/a secret.</p>
             <p class='fragment'>Let's take 3 minutes.</p>
@@ -441,6 +445,9 @@ end
             <p class='fragment'>This assumed primacy of the customer downplays the our role.</p>
           </section>
           <section>
+            <img src="stallman_reject.jpg" alt="" />
+          </section>
+          <section>
             <h3>You have other options</h3>
             <ul>
               <li class='fragment'>Adopt the "Ethical Design Manifesto," "Inclusive Design," "GNU Manifesto" or make up your own guiding principles</li>
@@ -520,7 +527,12 @@ end
           <p>github.com/EvanBurchard/refactoring_for_machine_dignity</p>
 				</section>
 				<section>
-          <h1>Bonus: Characterization Tests</h1>
+          <h1>Bonus:</h1>
+          <h3>Characterization Tests</h3>
+          <p>Assert that the code doesn't do anything of value:</p>
+          <pre><code>expect(result).to eq(nil)</code></pre>
+          <p>Let the test tell you, NO I AM NOT nil, I'm "Whatever"</p>
+          <p>Then fill in your test with that. Now, setup and suite running time are your only testing problems.</p>
 				</section>
 
 			</div>
