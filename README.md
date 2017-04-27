@@ -40,6 +40,6 @@ The most common alternative is for quality to be stopped at lens 1 or 2, leaving
 
 ### Reading
 * [William Opdyke Thesis PDF](http://laputan.org/pub/papers/opdyke-thesis.pdf)
-* ["Moral Machines" by Wendell Wallach and Colin Allen)[https://www.amazon.com/Moral-Machines-Teaching-Robots-Right/dp/0199737975]
+* ["Moral Machines" by Wendell Wallach and Colin Allen](https://www.amazon.com/Moral-Machines-Teaching-Robots-Right/dp/0199737975)
 * ["What Technology Wants"](https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174/)
 * ["More Precisely](https://www.amazon.com/More-Precisely-Philosophy-Broadview-Guides/dp/1551119099)
